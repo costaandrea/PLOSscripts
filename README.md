@@ -5,4 +5,4 @@ Run minimal.m to replicate the figures in Costa et al. (2017)
 
 This script requires the m_map package (https://www.eoas.ubc.ca/~rich/map.html)
 
-![](https://github.com/costaandrea/PLOSscripts/edit/master/net.png)
+![](https://github.com/costaandrea/PLOSscripts/blob/master/net.png)
